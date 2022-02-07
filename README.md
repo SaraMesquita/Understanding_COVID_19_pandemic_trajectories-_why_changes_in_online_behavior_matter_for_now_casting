@@ -1,1 +1,3 @@
-# Understanding_COVID_19_pandemic_trajectories-_why_changes_in_online_behavior_matter_for_now_casting
+# Understanding COVID-19 pandemic trajectories: why changes in online behavior matter for now-casting
+
+This is a poster for the (NetSciX22)[https://netscix.dcc.fc.up.pt/] conference.
